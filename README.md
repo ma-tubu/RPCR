@@ -193,20 +193,6 @@ DATASET=CMUMOSEI bash job/watch_target_search.sh mosei_target_search_001 30
 DATASET=CHSIMS bash job/watch_target_search.sh chsims_target_search_acc5_001 30
 ```
 
-## Citation
-
-If this repository is useful for your research, please cite our paper once the
-final manuscript is available.
-
-```bibtex
-@article{rpcr2026,
-  title   = {RPCR: Role-Aware Progressive Chained Refinement for Multimodal Sentiment Analysis},
-  author  = {Anonymous},
-  journal = {TBD},
-  year    = {2026}
-}
-```
-
 ## Notes
 
 - The repository intentionally excludes raw datasets, pretrained feature caches,
