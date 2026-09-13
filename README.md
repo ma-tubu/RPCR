@@ -18,12 +18,6 @@ conditional refinement blocks.
 > The final polished release may reorganize scripts, checkpoints, and pretrained
 > feature links.
 
-## Overview
-
-![RPCR motivation](assets/figures/figure-1-flat.png)
-
-![RPCR framework](assets/figures/figure-2.png)
-
 ## Highlights
 
 - **Role-aware chained reasoning**: organizes multimodal interaction as
